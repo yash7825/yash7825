@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...web development and software development.
 - 🌱 I’m currently learning ...React and node.
 
-- 📫 How to reach me ...arprayash7825@gmail.com
+- 📫 How to reach me ...arorayash7825@gmail.com
 
 <!---
 yash7825/yash7825 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
